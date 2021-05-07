@@ -1,4 +1,4 @@
  export const environment = {
   production: true,
-  baseUrl: 'http://localhost:8080/eCare/v4/' 
+  baseUrl: 'http://3.88.149.148:8080/eCare/v4/' 
 }; 
