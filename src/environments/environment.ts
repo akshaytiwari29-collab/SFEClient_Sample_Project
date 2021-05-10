@@ -8,7 +8,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://54.164.243.1:8080/eCare/v4/'  
+  baseUrl: 'http://52.6.59.176:8080/eCare/v4/'  
 };
 /*
  * For easier debugging in development mode, you can import the following file
